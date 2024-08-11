@@ -3798,10 +3798,10 @@ react-native-gradle-plugin@^0.71.15:
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.71.15.tgz#9e6b506f30729fe8eb086981702f4e3c891d2b13"
   integrity sha512-7S3pAuPaQJlhax6EZ4JMsDNpj05TfuzX9gPgWLrFfAIWIFLuJ6aDQYAZy2TEI9QJALPoWrj8LWaqP/DGYh14pw==
 
-react-native-wechat-lib@^3.0.0:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/react-native-wechat-lib/-/react-native-wechat-lib-3.0.3.tgz#37dee15a68f8bf12d7161aac2ec25f1451c95fb8"
-  integrity sha512-AjwjU9qXE0ma3/YvTHczGvxesVMEYCjfUqQEvQWg8D1a169UJiOFjWjuxmh2AcEnLNs1sYYbIn7BmDiAC90m4w==
+react-native-wechat-lib@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/react-native-wechat-lib/-/react-native-wechat-lib-3.0.4.tgz#a1c943b0932423f2554d201299e50906da1f32cc"
+  integrity sha512-tJYSsT8kk0uEdtskIwPUfUdmiBw+kPRNJBXR8fc5SaHZNJCE1ewrzD7sge9KK+RaldvWNmiTb4tbw0l2V+Jv1w==
   dependencies:
     events "^3.3.0"
 
